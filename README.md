@@ -1,3 +1,2 @@
-# NNDL-Lab
-
-Aayushi Gajbhiye, Roll No: 19, Batch C32(CST 3)
+NNDL LAB
+Nandita, Roll No: 07, Batch C31
